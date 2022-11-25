@@ -1,5 +1,7 @@
 ![demo](https://user-images.githubusercontent.com/3391616/195382065-092faca0-f3d4-410d-9e50-4ff1df390531.gif)
 
+> CloudTempo is now open source! Get it here: https://github.com/rafalwilinski/cloudtempo
+
 # [CloudTempo](https://cloudtempo.dev/)
 
 > Fast & Smart Command Bar for AWS Console.
@@ -21,5 +23,6 @@ Navigate through AWS Console with speed. Easily find resources, perform actions 
 ---
 
 - [Homepage](https://cloudtempo.dev)
+- [Repo](https://github.com/rafalwilinski/cloudtempo)
 
 Copyright 2022 Rafal Wilinski
